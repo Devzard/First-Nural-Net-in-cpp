@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1570337495 source:g:\disk 2\code blocks projects\ai-2\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+
